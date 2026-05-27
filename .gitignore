@@ -1,0 +1,7 @@
+gmail_token.pickle
+.env
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.venv/
